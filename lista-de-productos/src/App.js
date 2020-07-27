@@ -5,7 +5,7 @@ import ProductList from './components/productList/ProductList';
 function App() {
   return (
     <div className='App'>
-      <h1>Lista de Productos</h1>
+      <h1> Lista de Productos </h1>
       <ProductList />
     </div>
   );
